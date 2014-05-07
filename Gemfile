@@ -9,6 +9,8 @@ gem 'pg'
 
 gem 'bootstrap-sass'
 
+gem 'devise'
+
 gem 'rails_12factor', group: :production
 
 # Use SCSS for stylesheets
